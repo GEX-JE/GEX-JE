@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm GEX-JE</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GEX-JE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GEX-JE&theme=tokyonight&hide_border=false)<br/>
@@ -24,9 +27,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GEX-JE&icon=8&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-
