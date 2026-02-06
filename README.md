@@ -1,5 +1,6 @@
-# 💫 About Me:
+# 💫 About Me   :   <img src="https://komarev.com/ghpvc/?username=gex-je&label=Profile%20views&color=0e75b6&style=flat" alt="gex-je" /> </p>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
@@ -11,10 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=GEX-JE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GEX-JE&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GEX-JE&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://komarev.com/ghpvc/?username=gex-je&label=Profile%20views&color=0e75b6&style=flat" alt="gex-je" /> </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GEX-JE&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
